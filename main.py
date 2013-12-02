@@ -10,4 +10,4 @@ math = raw_input("Input math: ")
 program = "bc " + math + " | more"
 
 import subprocess
-subprocess.call([more])
+subprocess.call([program])
