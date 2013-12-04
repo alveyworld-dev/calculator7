@@ -1,4 +1,4 @@
-#Brandon Bench, Baylen
+#Brandon Bench, Baylen Pentz, Malone Wright
 
 def add(*n):
 	"""This function takes in any numbers and returns the sum of them."""
