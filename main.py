@@ -1,10 +1,10 @@
 
-def main():
+
 	
 
 
 if __name__ == '__main__':
-	main()
+	pass
 
 #from team1 import *
 from team2 import *
@@ -16,3 +16,5 @@ from team6 import *
 print add(1,2,3)
 print sub(3,2,1)
 print opp(4)
+print pow(2,3)
+
