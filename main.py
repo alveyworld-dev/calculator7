@@ -13,8 +13,8 @@ from team3 import *
 #from team5 import *
 from team6 import *
 
-print add(1,2,3)
-print sub(3,2,1)
-print opp(4)
-print pow(2,3)
-
+print add(1,2,3) #should equal 6
+print sub(3,2,1) #should equal 0
+print opp(4)     #should equal -4
+print pow(2,3)   #should equal 8
+print fact(3)    #should equal 6
