@@ -8,7 +8,7 @@ def abs(x):
 		return x
 
 def fact(x):
-	
+	""" This function calculates the factorial of the number x """
 	if x == 0:
 		return 1
 	elif x < 0:
